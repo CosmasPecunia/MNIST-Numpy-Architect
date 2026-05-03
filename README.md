@@ -19,5 +19,6 @@ Ce projet implémente un Perceptron Multicouche (MLP) entièrement conçu avec *
 * `main.py` : Contient la classe du modèle, la logique d'entraînement et de sauvegarde.
 * `test_model.py` : L'interface graphique (GUI) pour tester le modèle entraîné.
 * `pois_parametre.npz` : Fichier contenant les poids et biais optimisés du modèle.
+* `mniset_pytorch_cnn.py` : code du model mais entrainer avec pytorch(CNN), partique pour voir la difference entre la structure pytorch et numpy
 
 
